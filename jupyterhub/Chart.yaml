@@ -6,7 +6,7 @@ appVersion: 1.4.1
 description: Multi-user Jupyter installation
 keywords: [jupyter, jupyterhub, z2jh]
 home: https://z2jh.jupyter.org
-sources: [https://github.com/jupyterhub/zero-to-jupyterhub-k8s]
+sources: [https://github.com/VideoAmp/zero-to-jupyterhub-k8s]
 icon: https://jupyter.org/assets/hublogo.svg
 kubeVersion: ">=1.17.0-0"
 maintainers:
